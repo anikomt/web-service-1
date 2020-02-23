@@ -1,0 +1,5 @@
+ru/ifmo/web/database/util/Predicate.class
+ru/ifmo/web/database/util/CriteriaBuilder.class
+ru/ifmo/web/database/entity/User.class
+ru/ifmo/web/database/dao/UserDAO.class
+ru/ifmo/web/database/util/MappingUtil.class
